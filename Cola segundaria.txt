@@ -1,0 +1,4 @@
+Configurar usuario e email
+git clone LINK DO GIT
+cd (nome do seu repositorio) ** ESSENCIAL isso 
+
