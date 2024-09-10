@@ -1,0 +1,5 @@
+Aula 1 - Inicio da resolução dos exercicios ( Não Finalizado )
+Aulas 0 (passadas) - Introduzimos GIT, criamos um repositorio no GITHUB dedicado para as 
+aulas de PW II
+
+Gustavo Souza Lopes

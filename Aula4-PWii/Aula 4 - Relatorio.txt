@@ -1,0 +1,4 @@
+Em primeiro lugar SEMPRE colocar sua pasta clonado dentro do HTDOCS ( para acessar o HTDOCS, basta clicar em 
+explores na tela inicial do XAMPP ).
+
+Clique em ADMIN, e troque na URL, o nome da pasta DASHBOARD para o nome da sua pasta clonada ( que esta no HTDOCS ).
